@@ -1,6 +1,6 @@
 # Overview
 
-This project is the first in a suite of tools designed for Exceedingly Reproducibly Research by the [Community Data Science Collective](http://communitydata.cc). The goal of this project is to convert pdf representations of lab meetings and other conversations, which can be annotated with audio and timestamps.
+This project is the first in a suite of tools designed for [Exceedingly Reproducibly Research](https://blog.communitydata.cc/exceedingly-reproducible-research/) by the [Community Data Science Collective](http://communitydata.cc). The goal of this project is to convert pdf representations of lab meetings and other conversations, which can be annotated with audio and timestamps.
 
 # Usage
 
